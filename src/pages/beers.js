@@ -6,6 +6,7 @@ function BeerPage() {
     <div>
       <Nav />
       <p>im the Beer Page</p>
+      <h2>creating test branch</h2>
     </div>
   );
 }
