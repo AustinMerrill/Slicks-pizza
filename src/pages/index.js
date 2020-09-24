@@ -1,12 +1,13 @@
 import React from 'react';
 import Nav from '../components/Nav';
-import Layout from '../components/Layouts';
+import Layout from '../components/Layout';
 
 function HomePage() {
   return (
-    <Layout>
+    <>
       <p>hey im the home page</p>
-    </Layout>
+      <p>im another element</p>
+    </>
   );
 }
 
