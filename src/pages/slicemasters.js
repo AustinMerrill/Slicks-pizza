@@ -3,10 +3,9 @@ import Nav from '../components/Nav';
 
 function SlicemastersPage() {
   return (
-    <div>
-      <Nav />
+    <>
       <p>im the Slicemasters Page</p>
-    </div>
+    </>
   );
 }
 

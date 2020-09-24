@@ -1,13 +1,12 @@
 import React from 'react';
 import Nav from '../components/Nav';
-import Layout from '../components/Layouts';
+import Layout from '../components/Layout';
 
 function PizzaPage() {
   return (
-    <Layout>
-      <Nav />
+    <>
       <p>im the Pizza Page</p>
-    </Layout>
+    </>
   );
 }
 
