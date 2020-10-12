@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack:///./src/pages/404.js"],"names":["FourOhFourPage"],"mappings":"2FAAA,gCAKeA,UAHf,WACE,OAAO","file":"component---src-pages-404-js-b432ca40113a4864dd6f.js","sourcesContent":["import React from 'react';\n\nfunction FourOhFourPage() {\n  return <p>oh no</p>;\n}\nexport default FourOhFourPage;\n"],"sourceRoot":""}
